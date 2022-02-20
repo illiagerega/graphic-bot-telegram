@@ -1,0 +1,1 @@
+key = '5275225287:AAHo-8ed9wNBjv7fMlVrba4EiGPF_mCLPHI'
